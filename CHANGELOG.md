@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-03-01)
+
+<section class="features">
+
+### Features
+
+-   [`d8cd158`](https://github.com/stdlib-js/stdlib/commit/d8cd158e02fea1c4dbaf2f75a7000ac32c52479c) - add C implementation for `stats/base/dists/normal/pdf` [(#4377)](https://github.com/stdlib-js/stdlib/pull/4377)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3780](https://github.com/stdlib-js/stdlib/issues/3780)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`d8cd158`](https://github.com/stdlib-js/stdlib/commit/d8cd158e02fea1c4dbaf2f75a7000ac32c52479c) - **feat:** add C implementation for `stats/base/dists/normal/pdf` [(#4377)](https://github.com/stdlib-js/stdlib/pull/4377) _(by Prashant Kumar Yadav, Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Neeraj Pathak
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 

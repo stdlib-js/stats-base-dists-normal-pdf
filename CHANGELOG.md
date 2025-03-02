@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-01)
+## Unreleased (2025-03-02)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3780](https://github.com/stdlib-js/stdlib/issues/3780)
+[#3780](https://github.com/stdlib-js/stdlib/issues/3780), [#5713](https://github.com/stdlib-js/stdlib/issues/5713)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`cdcb256`](https://github.com/stdlib-js/stdlib/commit/cdcb2566680279371ca45593814c50835ea24f05) - **chore:** address commit comments [(#5731)](https://github.com/stdlib-js/stdlib/pull/5731) _(by Jalaj Kumar, Philipp Burckhardt)_
 -   [`d8cd158`](https://github.com/stdlib-js/stdlib/commit/d8cd158e02fea1c4dbaf2f75a7000ac32c52479c) - **feat:** add C implementation for `stats/base/dists/normal/pdf` [(#4377)](https://github.com/stdlib-js/stdlib/pull/4377) _(by Prashant Kumar Yadav, Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Jalaj Kumar
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav

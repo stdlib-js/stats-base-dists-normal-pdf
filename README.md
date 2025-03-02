@@ -175,10 +175,6 @@ for ( i = 0; i < 10; i++ ) {
 
 <!-- /.examples -->
 
-<!-- Section to include cited references. If references are included, add a horizontal rule *before* the section. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
-
-<section class="references">
-
 <!-- C interface documentation. -->
 
 * * *
@@ -247,7 +243,6 @@ double stdlib_base_dists_normal_pdf( const double x, const double mu, const doub
 #include "stdlib/constants/float64/eps.h"
 #include <stdlib.h>
 #include <stdio.h>
-#include <time.h>
 
 static double random_uniform( const double min, const double max ) {
     double v = (double)rand() / ( (double)RAND_MAX + 1.0 );
@@ -270,6 +265,12 @@ int main( void ) {
     }
 }
 ```
+
+</section>
+
+<!-- Section to include cited references. If references are included, add a horizontal rule *before* the section. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
+<section class="references">
 
 </section>
 

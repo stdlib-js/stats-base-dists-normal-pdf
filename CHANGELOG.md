@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-02)
+## Unreleased (2025-03-05)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#3780](https://github.com/stdlib-js/stdlib/issues/3780), [#5713](https://github.com/stdlib-js/stdlib/issues/5713)
+[#3780](https://github.com/stdlib-js/stdlib/issues/3780), [#5713](https://github.com/stdlib-js/stdlib/issues/5713), [#5790](https://github.com/stdlib-js/stdlib/issues/5790)
 
 </section>
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`5ff0c98`](https://github.com/stdlib-js/stdlib/commit/5ff0c98ff5b276f6fa2eb05d8fa36e6aa6269c30) - **chore:** address commit comments (commit `cdcb256`) [(#5799)](https://github.com/stdlib-js/stdlib/pull/5799) _(by Tanishq Ahuja, Philipp Burckhardt)_
 -   [`cdcb256`](https://github.com/stdlib-js/stdlib/commit/cdcb2566680279371ca45593814c50835ea24f05) - **chore:** address commit comments [(#5731)](https://github.com/stdlib-js/stdlib/pull/5731) _(by Jalaj Kumar, Philipp Burckhardt)_
 -   [`d8cd158`](https://github.com/stdlib-js/stdlib/commit/d8cd158e02fea1c4dbaf2f75a7000ac32c52479c) - **feat:** add C implementation for `stats/base/dists/normal/pdf` [(#4377)](https://github.com/stdlib-js/stdlib/pull/4377) _(by Prashant Kumar Yadav, Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
@@ -48,12 +49,13 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Jalaj Kumar
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
+-   Tanishq Ahuja
 
 </section>
 

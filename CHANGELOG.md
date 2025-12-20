@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-05)
+## Unreleased (2025-12-20)
 
 <section class="features">
 
@@ -34,6 +34,11 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`6fe0761`](https://github.com/stdlib-js/stdlib/commit/6fe0761c9b399fae0e81992d5dda665cebaee019) - **docs:** replace manual `for` loop in examples [(#9055)](https://github.com/stdlib-js/stdlib/pull/9055) _(by Harsh Yadav)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`5ff0c98`](https://github.com/stdlib-js/stdlib/commit/5ff0c98ff5b276f6fa2eb05d8fa36e6aa6269c30) - **chore:** address commit comments (commit `cdcb256`) [(#5799)](https://github.com/stdlib-js/stdlib/pull/5799) _(by Tanishq Ahuja, Philipp Burckhardt)_
 -   [`cdcb256`](https://github.com/stdlib-js/stdlib/commit/cdcb2566680279371ca45593814c50835ea24f05) - **chore:** address commit comments [(#5731)](https://github.com/stdlib-js/stdlib/pull/5731) _(by Jalaj Kumar, Philipp Burckhardt)_
 -   [`d8cd158`](https://github.com/stdlib-js/stdlib/commit/d8cd158e02fea1c4dbaf2f75a7000ac32c52479c) - **feat:** add C implementation for `stats/base/dists/normal/pdf` [(#4377)](https://github.com/stdlib-js/stdlib/pull/4377) _(by Prashant Kumar Yadav, Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
@@ -49,9 +54,11 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh Yadav
 -   Jalaj Kumar
+-   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
